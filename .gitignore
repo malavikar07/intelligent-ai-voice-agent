@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model files
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Logs
+*.log
+
+# Node
+node_modules/
+dist/
+build/
+
+# Temporary files
+*.tmp
